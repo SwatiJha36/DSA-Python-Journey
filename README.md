@@ -1,2 +1,9 @@
 # DSA-Python-Journey
-This is Swati and here is my DSA PYTHON journey.
+started: 15 June 2026
+
+Learning:
+- Python DSA
+- AI/ML
+- SWE skills
+
+Daily practice + projects  
